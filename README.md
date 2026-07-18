@@ -35,7 +35,7 @@ pip install torch
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/princeyadav27/GPT_DEMO
 ```
 
 Open the notebook in Jupyter Notebook or Google Colab and run the cells in order.
