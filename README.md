@@ -53,4 +53,4 @@ https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/
 
 ## Note
 
-This project was created as part of my learning journey to better understand how transformer-based language models work by implementing them from scratch instead of using high-level libraries.
+This project was created as part of my learning journey to better understand how transformer-based language models work by implementing them from scratch instead of using high-level libraries,
